@@ -7,9 +7,7 @@ Aplikasi ini merupakan sistem kuesioner berbasis **Next.js**, **Prisma ORM**, da
 <img  height="380" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/5acd48c4-2015-4448-8c38-1daa80f66a80" />
 <img  height="380" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/67e31412-2c15-4d52-a8a1-90793003c80d" />
 <img  height="380" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/2b3f1f8b-07db-4a9e-9406-c87d8c09aed0" />
-
-
-<img  height="480" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/50221d3d-f7c5-465f-a99e-b6c6b6435ee6" />
+<img  height="380" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/50221d3d-f7c5-465f-a99e-b6c6b6435ee6" />
 
 ---
 
