@@ -10,6 +10,8 @@ Aplikasi ini merupakan sistem kuesioner berbasis **Next.js**, **Prisma ORM**, da
 <img  height="380" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/50221d3d-f7c5-465f-a99e-b6c6b6435ee6" />
 
 ---
+*.env di zip
+
 
 # Fitur Aplikasi
 
